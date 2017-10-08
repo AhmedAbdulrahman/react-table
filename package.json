@@ -4,7 +4,6 @@
   "description": "Showcasing how to use React Table",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server --env.dev",
     "build": "webpack"
   },
