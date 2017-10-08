@@ -1,5 +1,5 @@
 {
-  "name": "react-table",
+  "name": "reactjs-table",
   "version": "1.0.0",
   "description": "Showcasing how to use React Table",
   "main": "app.js",
@@ -23,6 +23,9 @@
   },
   "homepage": "https://github.com/AhmedAbdulrahman/react-table#readme",
   "dependencies": {
+    "axios": "0.16.2",
+    "factory-girl": "5.0.0-beta.1",
+    "namor": "1.0.1",
     "react": "16.0.0",
     "react-dom": "16.0.0"
   },
